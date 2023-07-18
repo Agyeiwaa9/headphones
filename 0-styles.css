@@ -110,7 +110,7 @@ template{display:none}[hidden]{display:none} */
 
    a{
     text-decoration: none;
-   }
+     }
 
    .container{
     /* border: 1px solid red; */
@@ -161,9 +161,9 @@ template{display:none}[hidden]{display:none} */
       .nav .nav-item {
         font-size: 12px;
         text-decoration: none;
-font-style: normal;
-font-weight: 400;
-line-height: normal;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
 
         letter-spacing: var(--nav-item-letter-spacing);
       }
