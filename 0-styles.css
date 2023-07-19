@@ -152,6 +152,7 @@ template{display:none}[hidden]{display:none} */
 
       .nav{
         display: flex;
+        flex-direction: row;
         margin: 0;
         padding: 0;
         list-style: none;
