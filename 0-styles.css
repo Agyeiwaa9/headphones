@@ -238,6 +238,7 @@ template{display:none}[hidden]{display:none} */
   }
 
   .button:hover{
+      opacity: 0.9;
     background: #b83939;
   }
 
